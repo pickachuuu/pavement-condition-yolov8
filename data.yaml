@@ -1,0 +1,18 @@
+path: /dataset/
+train: /images/train
+val: /images/val
+
+names:
+  0: Reflective Crack
+  1: Transvers Crack
+  2: Block Crack
+  3: Longitudinal Crack
+  4: Aligator Crack
+  5: PCC
+  6: Sealed Reflective Crack
+  7: Sealed Block Crack
+  8: Sealed Transvers Cracks
+  9: Lane Longitudinal Crack
+  10: Sealed Longitudinal Crack
+  11: pothole
+  12: PCC longitudinal
